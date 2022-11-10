@@ -1,2 +1,2 @@
-# RepositorioParaP06
+# RepositorioParaP06PRUEBA
 Probando
